@@ -22,6 +22,13 @@
 		<div class="header col-xs-12 col-sm-12 col-md-12 col-lg-12" style="background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,88,121,1) 35%, rgba(0,212,255,1) 100%);">
 				<?php include('header.php'); ?>		
 		</div>
+</div>
+		<div class="content col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="left col-xs-12 col-sm-12 col-md-2 col-lg-2">
+				<?php include('left.php');  ?>
+			</div>
+
+		</div>
 		
 	</div>
 
